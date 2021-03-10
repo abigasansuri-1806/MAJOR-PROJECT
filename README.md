@@ -1,1 +1,1 @@
-# MAJOR-PROJECT
+# Sentiment Analysis - Major Project
